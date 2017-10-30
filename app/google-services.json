@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "55627482424",
+    "firebase_url": "https://onlinedb-14c82.firebaseio.com",
+    "project_id": "onlinedb-14c82",
+    "storage_bucket": "onlinedb-14c82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55627482424:android:aff46b8cb605c3ef",
+        "android_client_info": {
+          "package_name": "com.example.acer.onlinedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55627482424-921qtg5db1m0v5vs0tsvgam2ounk6as2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.onlinedb",
+            "certificate_hash": "fba5b8d0f95797efbc596933595cf66115c2f19c"
+          }
+        },
+        {
+          "client_id": "55627482424-bdua0enkon66eosq5mp0iklipkguo049.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs7hfLjl6KuUY6ZoFu6R6Crz1lnvaQndU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55627482424-bdua0enkon66eosq5mp0iklipkguo049.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
